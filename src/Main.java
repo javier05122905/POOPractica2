@@ -12,11 +12,11 @@ public class Main {
         objc.add(new DatosPersonales("Tomas", "Flores Diaz"));
         objc.add(new DatosPersonales("Tomas", "Flores Diaz"));
         objc.add(new DatosPersonales("Tomas", "Flores Diaz"));
-        objc.add(new DatosPersonales("Tomas", "Flores Diaz"));
+        objc.add(new DatosPersonales("Fernando", "Flores Diaz"));
 
         /*objc.show();*/
 
-        objc.show2();
+        /*objc.show2();*/
         objc.buscar("Fernando");
 
     }
